@@ -1,0 +1,29 @@
+[
+  {
+    "id": 202,
+    "name": "Keyboard",
+    "price": 799,
+    "category": "Electronics"
+  },
+  {
+    "id": 203,
+    "name": "Notebook",
+    "price": 60,
+    "category": "Stationery"
+  },
+  {
+    "id": 204,
+    "name": "Water Bottle",
+    "price": 249,
+    "category": "Accessories"
+  },
+  {
+    "id": 205
+  },
+  {
+    "id": 206,
+    "name": "Laptop",
+    "price": 55000,
+    "category": "Electronics"
+  }
+]
